@@ -170,7 +170,7 @@ lc/Kontrolu interretta konekto kun la servilo.
 blue/
 w/16
 link/index.html
-p/NegrNeto]]
+p/NNeto]]
 esperanto = love.graphics.newImage("img/esperanto.png")
 warnn = love.graphics.newImage("img/warn.png")
 bgr = 250
