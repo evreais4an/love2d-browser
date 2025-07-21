@@ -2,7 +2,7 @@ local threads = {}
 local results = {}
 local ipRange = 150
 
-local port = 1488
+local port = 1487
 local foundServer = nil
 function distance(x1, y1, x2, y2)
     local dx = x2 - x1
